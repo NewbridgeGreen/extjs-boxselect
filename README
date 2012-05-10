@@ -2,12 +2,9 @@
 Ext.ux.form.field.BoxSelect
 ===========================
 
-This repository is for the ExtJS4 user extension featured on this post:
+This repository is for the ExtJS 4.1 user extension featured on this post:
 http://www.sencha.com/forum/showthread.php?134751-Ext.ux.form.field.BoxSelect-Intuitive-Multi-Select-ComboBox
 
 Thanks to all those out there in the community that have contributed their patches or bug reports.
 
-Hosted on github at https://github.com/kveeiv/extjs-boxselect
-
-
-
+Hosted on github at https://github.com/moritori/extjs-boxselect (the original version from kveeiv that this version has been upgraded from can be found at https://github.com/kveeiv/extjs-boxselect)
